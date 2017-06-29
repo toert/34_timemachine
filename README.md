@@ -1,6 +1,7 @@
 # Timer for Websites That Steal Your Time
 
 This project helps to control time was spent on sites. It requires special extension for Chrome browser.
+Now you have only 5 minutes to read article in your favourite website. After 5 minutes timer will send alerts every 30 secs.
 
 # Installing
 
